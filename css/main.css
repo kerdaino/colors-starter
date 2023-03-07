@@ -1,7 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
 
-html, body {
+html,
+body {
   margin: 0px;
 }
 
@@ -60,48 +61,48 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: #ff009e;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: #ffe000;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: #00ff61;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: #001fff;
   }
 
   footer {
-    background-color: ;
+    background-color: whitesmoke;
   }
-  
+
 }
 
 
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
-    background-color: ;
+    background-color: #00ff20;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: #0060ff;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: #ff00df;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: #ffa000;
   }
 
   footer {
-    background-color: ;
+    background-color: whitesmoke;
   }
-   
+
 }
